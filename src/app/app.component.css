@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  width: 100vw;
+}
+
+h1 {
+  text-align: center;
+  color: whitesmoke;
+  width: 98%;
+  padding: 20px;
+  background-color: lightslategray;
+}
